@@ -4,8 +4,6 @@ const dbName = 'recepies';
 const url = 'mongodb://localhost:27017/' + dbName;
 
 
-
-
 module.exports = {
   url : url,
   db: dbName
